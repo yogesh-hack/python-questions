@@ -1,37 +1,25 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/yogesh-hack/python-questions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Test case
+Input : n=5 arr[n]=[3,30,34,5,9]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Output : 9533430
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yogesh-hack/python-questions/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+'''
+arr=[3,30,34,5,9]
+# res=int("".join(map(str,arr)))
+# s=int("".join(sorted([i for i in str(res)],reverse=True)))
+# print(s)
+a=[]
+b=[]
+for i in arr:
+    if(i>10):
+        a.append(i)
+    else:
+        b.append(i)
+r=sorted(a,reverse=True)
+s=sorted(b,reverse=True)
+m=s+r
+res=int("".join(map(str,m)))
+print("Output: ",res)
+'''
