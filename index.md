@@ -23,9 +23,9 @@ m=s+r
 res=int("".join(map(str,m)))
 print("Output: ",res)
 ```
-'''
+```
 Output:  9533430
-'''
+```
 
 
 ### Sum of vowel
@@ -34,7 +34,7 @@ Input: n=3 => 1 2 3
 
 output: 5
 
-'''python
+```python
 n=3
 l=[1,2,3]
 dict={
@@ -73,5 +73,5 @@ for i in dict:
     if i in l:
         ans+=vowel(dict[i])
 print(ans)
-'''
+```
 
