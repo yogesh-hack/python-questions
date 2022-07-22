@@ -8,7 +8,6 @@
 ![4](https://user-images.githubusercontent.com/83384315/180358654-bbe2a91f-3bcb-490e-8a9a-80627276d0aa.png)
 ![5](https://user-images.githubusercontent.com/83384315/180358682-fc9e58b8-5a08-46c5-a9e7-0ce6ad55bed3.png)
 ![6](https://user-images.githubusercontent.com/83384315/180358690-0a9633d5-bf3c-4677-bfe4-570fb0df0fef.png)
-![7](https://user-images.githubusercontent.com/83384315/180358692-00fe786b-f3a3-4b56-90dc-19f92407d02d.png)
 
 
 ___________________Learning python with solution____________________________
