@@ -77,4 +77,5 @@ for i in dict:
         ans+=vowel(dict[i])
 print(ans)
 ```
+[Read More Post](https://github.com/yogesh-hack/python-questions/blob/gh-pages/leetcode_solutions_in_python.md)
 
