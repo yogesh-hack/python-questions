@@ -10,5 +10,6 @@
 ![6](https://user-images.githubusercontent.com/83384315/180358690-0a9633d5-bf3c-4677-bfe4-570fb0df0fef.png)
 
 
-___________________Learning python with solution____________________________
+______Learning python with solution_______
+
 [Read more post -> ](question.md)
